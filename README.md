@@ -2,4 +2,4 @@
 
 ## Club de chicas programadoras
 
-var monito = 1;
+var monito = 2;
